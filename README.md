@@ -47,8 +47,3 @@ Durante o desenvolvimento, reforcei conceitos importantes como:
 * Quando usar cada um
 * Controle de espaçamento com `gap`
 * Estruturação de layouts mais próximos do mercado
-
-
----
-
-✨ Projeto simples, mas essencial para evolução no front-end!
