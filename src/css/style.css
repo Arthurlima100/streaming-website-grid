@@ -1,0 +1,60 @@
+.container {
+    display: grid;
+    grid-template-columns: 543px auto auto auto;
+    grid-template-rows: 56px 87px 87px 87px;
+    width: 900px;
+    gap: 12px;
+    height: 415px;
+    padding: 38px 35px 19px;
+    background-color: aquamarine;
+}
+
+.video-principal {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    background-color: blue;
+}
+
+.propaganda {
+    background-color: aqua;
+    text-align: center;
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+.titulo-e-descricao {
+    background-color: brown;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+
+
+
+.video1 {
+    background-color: blueviolet;
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+
+.video2 {
+    background-color: beige;
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+
+.video3 {
+    background-color: chocolate;
+    grid-column-start: 2;
+    grid-column-end: 5;
+}
+
+.titulo-e-descricao-sugerido {
+    background-color: rgb(18, 202, 74);
+
+}
